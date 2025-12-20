@@ -1,6 +1,8 @@
 # PS4-Fortnite-FPKGs
 A documentation-only repository listing dumped and repackaged Fortnite PlayStation FPKGs. Created for educational, archival, and research purposes. No affiliation with Epic Games or Sony Interactive Entertainment.
 
+If you would like to contact me regarding builds or anything else, you can reach out to me in [FMP Reborn](https://discord.gg/ZDdyAYtdmx)
+
 # Downloads
 
 
