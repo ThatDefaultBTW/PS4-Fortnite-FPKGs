@@ -65,6 +65,7 @@ If you would like to contact me regarding builds or anything else, you can reach
 | 4.2 | N/A |
 | 4.3 | N/A |
 | 4.4.2 | N/A |
+| 4.5 | [download](http://158.69.214.118/4.5fpkg.pkg) |
 
 ---
 
